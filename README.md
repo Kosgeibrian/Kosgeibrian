@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kosgeibrian
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning begginer cybersecurity, programming and software development
+- 👀 I’m a tech enthusiast
+- 🌱 I’m currently learning cybersecurity, programming and software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at email kosgeibrian618@gmail.com
 - 😄 Pronouns: he
